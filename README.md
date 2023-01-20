@@ -1,10 +1,8 @@
-### About Me
+#### About Me
 
 ##### I enjoy the challenges and creative expressions that come with designing and implementing solutions via web development. I am currently learning Go and am excited to put its concurrency powers to work. 
 
-#####  <br/>
-
-### Skills
+#### Skills
 ``` TypeScript ```
 ``` Go ```
 ``` Vue.js ```
