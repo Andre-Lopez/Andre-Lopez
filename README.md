@@ -1,16 +1,17 @@
-### Hi there 👋
+### About Me
 
-<!--
-**Andre-Lopez/Andre-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I enjoy the challenges and creative expressions that come with designing and implementing solutions via web development. I am currently learning Go and am excited to put its concurrency powers to work. 
 
-Here are some ideas to get you started:
+#####  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+``` TypeScript ```
+``` Go ```
+``` Vue.js ```
+``` React.js ```
+``` Express ```
+``` Redis ```
+``` SQL ```
+``` MongoDB ```
+``` Docker ```
+``` Kubernetes ```
