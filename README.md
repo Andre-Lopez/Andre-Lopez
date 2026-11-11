@@ -1,6 +1,8 @@
 #### About Me
 
-##### I enjoy the challenges and creative expressions that come with designing and implementing solutions via web/app development. I am currently learning Go and am excited to put its concurrency powers to work. 
+##### I enjoy building practical and reliable web applications using sound engineering principles. 
+While I do appreciate the convenience of modern frameworks, I have grown more interested in explicit and lightweight approaches. 
+This has led me to Go, where I continue seeing how thoughtful design decisions can produce predictable and maintainable software. 
 
 #### Skills
 ``` TypeScript ```
